@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-RV9QNTO",
+    "children" : [ {
+      "name" : "3836@DESKTOP-RV9QNTO.Test worker(13)",
+      "children" : [ {
+        "name" : "firs()",
+        "uid" : "ca4f1700f92e4f53",
+        "parentUid" : "eab8a8b31a9a928d13a544b13735e0c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649376191989,
+          "stop" : 1649376199092,
+          "duration" : 7103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eab8a8b31a9a928d13a544b13735e0c5"
+    } ],
+    "uid" : "bc44a36638991e218f74b021ef4d0146"
+  } ]
+}

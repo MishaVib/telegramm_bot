@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Yes",
+    "children" : [ {
+      "name" : "firs()",
+      "uid" : "ca4f1700f92e4f53",
+      "parentUid" : "380efa30563559b95588b0ab4af5286d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649376191989,
+        "stop" : 1649376199092,
+        "duration" : 7103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "380efa30563559b95588b0ab4af5286d"
+  } ]
+}

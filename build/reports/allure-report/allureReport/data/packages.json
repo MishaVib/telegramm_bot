@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Yes",
+    "children" : [ {
+      "name" : "firs",
+      "uid" : "ca4f1700f92e4f53",
+      "parentUid" : "100f09afc02e92a206b8c60ddf1ebb02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649376191989,
+        "stop" : 1649376199092,
+        "duration" : 7103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "100f09afc02e92a206b8c60ddf1ebb02"
+  } ]
+}
